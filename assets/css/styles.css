@@ -18,7 +18,8 @@ body {
   justify-content: center;
   align-items: center;
 
-  min-height: 100vh;
+  width: 1920;
+  height: 100vh;
 
   background-color: #0c0ce94d;
 }
@@ -28,7 +29,6 @@ body {
 
   width: 80%;
   height: 80vh;
-  max-width: 1280px;
 
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.212);
 }
@@ -230,33 +230,5 @@ body {
   }
   .gender-input {
     margin-top: 0.5rem;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .container {
-    flex-direction: column;
-    width: 90%;
-    height: auto;
-  }
-  .form {
-    padding: 2rem;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  .container {
-    width: 100%;
-    padding: 1rem;
-  }
-  .form {
-    padding: 1rem;
-  }
-  .continue-button button {
-    padding: 0.6rem;
-    font-size: 0.85rem;
-  }
-  .input-box input {
-    padding: 0.6rem;
   }
 }
