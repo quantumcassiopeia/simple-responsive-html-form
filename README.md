@@ -1,4 +1,3 @@
-@ -1,18 +0,0 @@
 ![form-screenshot](https://github.com/user-attachments/assets/50da0102-add9-416a-ba63-173204787bc1)
 
 
@@ -15,5 +14,4 @@ The goal of this project is to present a basic registration form, styled with CS
 
 ## How to View the Project
 Clone this repository to your machine:
-   ```bash
    git clone https://github.com/quantumcassiopeia/simple-responsive-html-form
